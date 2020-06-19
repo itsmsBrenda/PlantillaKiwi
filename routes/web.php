@@ -16,4 +16,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('Prueba git','PruebaGit@index');
+Route::get('Prueba gitgithub','PruebaGit@index');
